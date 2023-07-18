@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/demo-wolf3/static/css/main.e6c13ad2.css",
+    "main.js": "/demo-wolf3/static/js/main.43f67542.js",
+    "index.html": "/demo-wolf3/index.html",
+    "main.e6c13ad2.css.map": "/demo-wolf3/static/css/main.e6c13ad2.css.map",
+    "main.43f67542.js.map": "/demo-wolf3/static/js/main.43f67542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.43f67542.js"
+  ]
+}
