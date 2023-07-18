@@ -1124,7 +1124,10 @@ number_results=10;
 
     axios({
       method: 'GET',
-      url: 'https://heroku-server3-b7bab417195a.herokuapp.com/arxive',
+      mode: 'cors',
+      
+      //url: 'http://localhost:3000/arxive',
+     url: 'https://heroku-server3-b7bab417195a.herokuapp.com/arxive',
      params: { q: searchquery, p: p, r: number_results}
       
     }).then((res) => {
